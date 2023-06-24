@@ -51,10 +51,23 @@ const CONFIG = {
 	// └─┘└─┘ ┴  ┴ └─┘┘└┘└─┘
 
 	firstButtonsContainer: [
-	
+		
+		{
+			id: '2',
+			name: 'Mail',
+			icon: 'mail',
+			link: 'https://mail.google.com/mail/u/0/#inbox',
+		},
+		
+		{
+			id: '4',
+			name: 'Calendar',
+			icon: 'calendar',
+			link: 'https://calendar.google.com/calendar/r',
+		},
 		{
 			id: '5',
-			name: 'zoro',
+			name: 'Zoro',
 			icon: 'swords',
 			link: 'https://zoro.vc/',
 		},
@@ -69,17 +82,29 @@ const CONFIG = {
 	secondButtonsContainer: [
 		{
 			id: '1',
+			name: 'Twitch',
+			icon: 'twitch',
+			link: 'https://www.twitch.tv/',
+		},
+		{
+			id: '2',
 			name: 'twitter',
 			icon: 'twitter',
 			link: 'https://twitter.com/',
 		},
-		
 		{
 			id: '3',
-			name: 'Amazon',
-			icon: 'shopping-bag',
-			link: 'https://www.amazon.co.uk/',
+			name: 'instagram',
+			icon: 'instagram',
+			link: 'https://www.instagram.com/',
 		},
+		{
+			id: '4',
+			name: 'goku.to',
+			icon: 'popcorn',
+			link: 'https://goku.sx/',
+		},
+		
 		
 	],
 
