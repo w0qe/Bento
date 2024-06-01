@@ -133,7 +133,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Anime',
-					link: 'https://zoro.bz/',
+					link: 'https://aniwave.to/',
 				},
 			],
 		},
