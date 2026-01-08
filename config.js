@@ -133,7 +133,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Anime',
-					link: 'https://aniwave.to/',
+					link: 'https://kickass-anime.ro/',
 				},
 			],
 		},
@@ -143,7 +143,7 @@ const CONFIG = {
 	secondListsContainer: [
 		
 		{
-			icon: 'mail',
+			icon: 'coffee',
 			id: '1',
 			links: [
 				{
@@ -160,7 +160,7 @@ const CONFIG = {
 				},
 				{
 					name: 'tv shows',
-					link: 'https://goku.sx/',
+					link: 'https://pstream.mov/',
 				},
 			],
 		},
