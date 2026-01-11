@@ -90,7 +90,7 @@ const CONFIG = {
 			id: '2',
 			name: 'twitter',
 			icon: 'twitter',
-			link: 'https://twitter.com/',
+			link: 'https://x.com',
 		},
 		{
 			id: '3',
