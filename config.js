@@ -128,8 +128,8 @@ const CONFIG = {
 					link: 'https://www.twitch.tv/',
 				},
 				{
-					name: 'Twitter',
-					link: 'https://twitter.com/',
+					name: 'tv shows',
+					link: 'https://cinejoy.pk/',
 				},
 				{
 					name: 'Anime',
@@ -159,8 +159,8 @@ const CONFIG = {
 					link: 'https://uk.indeed.com/',
 				},
 				{
-					name: 'tv shows',
-					link: 'https://cinejoy.pk/',
+					name: 'Twitter',
+					link: 'https://twitter.com/',
 				},
 			],
 		},
