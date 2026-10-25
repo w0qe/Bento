@@ -133,7 +133,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Anime',
-					link: 'https://kickass-anime.ro/',
+					link: 'https://www.miruro.to/',
 				},
 			],
 		},
@@ -160,7 +160,7 @@ const CONFIG = {
 				},
 				{
 					name: 'tv shows',
-					link: 'https://pstream.mov/',
+					link: 'https://cinejoy.pk/',
 				},
 			],
 		},
